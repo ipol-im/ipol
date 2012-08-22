@@ -1,7 +1,7 @@
 ipol
 ====
 
-collection of all the code published in the IPOL research journal
+> collection of all the code published in the IPOL research journal
 
 This meta-project includes all the source code published in in the IPOL research journal (<http://www.ipol.im/>),
 implementing image processing algorithms.
